@@ -4,8 +4,6 @@ Curso de Git e GitHub:
 
 Este é um repositório teste para ensinar como Git funciona.
 
-Teste de edição do arquivo e commit.
-
 # Lorem Ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla quis tellus tempus, venenatis rhoncus lorem tempus. Suspendisse non arcu neque. Nam at velit venenatis, fringilla neque vitae, mollis urna. Curabitur molestie augue vel turpis luctus luctus. Nam tortor orci, maximus quis neque in, hendrerit aliquam est. Ut nec posuere nisl. Curabitur condimentum rutrum ornare. Maecenas orci neque, malesuada vel tristique sed, iaculis quis odio. Integer lobortis elit nec ullamcorper porta. Pellentesque venenatis quam libero, sed interdum sapien ultrices nec.
